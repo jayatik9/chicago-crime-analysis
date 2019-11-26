@@ -1,6 +1,7 @@
 # chicago-crime-analysis
 Introduction
 
+Crime in Chicago has been tracked by the Chicago Police Department’s Bureau of Records since the beginning of the 20th century. The city’s overall crime rate, especially the violent crime rate, is substantially higher than the US average. Chicago was responsible for nearly half of 2016’s increase in homicides in the US, though national crime rates stayed near historic lows.As of 2017, Chicago’s homicide rate is significantly higher when compared to the larger American cities of New York and Los Angeles, but lower when compared to smaller American cities. The reason for the violence which is localized to some areas of the city, including change in police tactics or increase in gang rivalry, remain unclear.
 
 Purpose
 
